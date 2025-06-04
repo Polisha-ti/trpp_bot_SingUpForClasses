@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*
+
+# кроме этих файлов и папок
+!.gitignore
+!requirements.txt
+!Dockerfile
+!bot/
+!bot_2.py
